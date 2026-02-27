@@ -1,2 +1,2 @@
 # Aula_Backend
-Repositório destinado a aula de BEck-end
+Repositório destinado a aula de Backend
